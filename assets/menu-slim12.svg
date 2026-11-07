@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 875" role="img" aria-label="Структура меню NRF24 и RF в SLIM12 RC1">
+<rect width="1200" height="875" rx="24" fill="#0b1221"/>
+<text x="45" y="61" fill="#f0f5fa" font-size="36" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">SLIM12 RC1 · Радиоменю</text>
+<text x="45" y="100" fill="#93a9c5" font-size="20" font-family="Arial,DejaVu Sans,sans-serif">Схематичная структура меню, не фотография экрана устройства.</text>
+<rect x="40" y="137" width="505" height="700" rx="18" fill="#122b46" stroke="#397baa" stroke-width="2"/>
+<rect x="572" y="137" width="586" height="700" rx="18" fill="#163630" stroke="#4aa086" stroke-width="2"/>
+<text x="68" y="192" fill="#91e4ff" font-size="32" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">NRF24 · 2.4 GHz</text>
+<text x="602" y="192" fill="#a6ffd3" font-size="32" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">RF · CC1101</text>
+<circle cx="83" cy="241" r="5" fill="#59b8ed"/><text x="109" y="248" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">Spectrum</text>
+<circle cx="83" cy="304" r="5" fill="#59b8ed"/><text x="109" y="311" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">Spectrogram</text>
+<circle cx="83" cy="367" r="5" fill="#59b8ed"/><text x="109" y="374" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">MouseJack</text>
+<circle cx="83" cy="430" r="5" fill="#59b8ed"/><text x="109" y="437" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">NRF Jammer</text>
+<circle cx="83" cy="493" r="5" fill="#59b8ed"/><text x="109" y="500" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">Diagnostics</text>
+<circle cx="110" cy="556" r="5" fill="#59b8ed"/><text x="136" y="563" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">Antenna-test</text>
+<circle cx="110" cy="619" r="5" fill="#59b8ed"/><text x="136" y="626" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">RX sequence-test</text>
+<circle cx="110" cy="682" r="5" fill="#59b8ed"/><text x="136" y="689" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">RX stress-test</text>
+<circle cx="83" cy="745" r="5" fill="#59b8ed"/><text x="109" y="752" fill="#f4f9fe" font-size="24" font-family="Arial,DejaVu Sans,sans-serif">Back</text>
+<circle cx="620" cy="229" r="4" fill="#70d3ae"/><text x="645" y="236" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Scan/copy</text>
+<circle cx="620" cy="272" r="4" fill="#70d3ae"/><text x="645" y="279" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Record RAW</text>
+<circle cx="620" cy="315" r="4" fill="#70d3ae"/><text x="645" y="322" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Custom SubGhz</text>
+<circle cx="620" cy="358" r="4" fill="#70d3ae"/><text x="645" y="365" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Spectrum</text>
+<circle cx="620" cy="401" r="4" fill="#70d3ae"/><text x="645" y="408" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Spectrogram</text>
+<circle cx="620" cy="444" r="4" fill="#70d3ae"/><text x="645" y="451" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">RSSI Spectrum</text>
+<circle cx="620" cy="487" r="4" fill="#70d3ae"/><text x="645" y="494" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">SquareWave Spec</text>
+<circle cx="620" cy="530" r="4" fill="#70d3ae"/><text x="645" y="537" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Diagnostics</text>
+<circle cx="645" cy="573" r="4" fill="#70d3ae"/><text x="670" y="580" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">RF stress-test</text>
+<circle cx="645" cy="616" r="4" fill="#70d3ae"/><text x="670" y="623" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Antenna-test</text>
+<circle cx="620" cy="659" r="4" fill="#70d3ae"/><text x="645" y="666" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Bruteforce</text>
+<circle cx="620" cy="702" r="4" fill="#70d3ae"/><text x="645" y="709" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Jammer</text>
+<circle cx="620" cy="745" r="4" fill="#70d3ae"/><text x="645" y="752" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Config</text>
+<circle cx="620" cy="788" r="4" fill="#70d3ae"/><text x="645" y="795" fill="#f4f9fe" font-size="21" font-family="Arial,DejaVu Sans,sans-serif">Back</text>
+</svg>

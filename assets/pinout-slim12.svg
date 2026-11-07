@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 730" role="img" aria-label="Пины SLIM12 для NRF24 и CC1101 на Cardputer ADV">
+<rect width="1200" height="730" rx="24" fill="#0b1221"/>
+<text x="48" y="60" fill="#f3f7fe" font-size="34" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">Cardputer ADV · распиновка SLIM12 RC1</text>
+<text x="48" y="94" fill="#91a7c4" font-size="19" font-family="Arial,DejaVu Sans,sans-serif">Логическая схема сигналов. Не схема пайки или расположения контактов разъёма.</text>
+<rect x="45" y="126" width="1110" height="115" rx="16" fill="#142b40" stroke="#2c748a" stroke-width="2"/>
+<text x="72" y="166" fill="#7fe0ec" font-size="22" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">ОБЩАЯ SPI-ШИНА</text>
+<text x="72" y="206" fill="#f9ffff" font-size="27" font-family="Arial,DejaVu Sans,sans-serif">SCK → GPIO 40</text>
+<text x="455" y="206" fill="#f9ffff" font-size="27" font-family="Arial,DejaVu Sans,sans-serif">MISO → GPIO 39</text>
+<text x="816" y="206" fill="#f9ffff" font-size="27" font-family="Arial,DejaVu Sans,sans-serif">MOSI → GPIO 14</text>
+<rect x="48" y="270" width="528" height="280" rx="16" fill="#14273c" stroke="#3a95cf" stroke-width="2"/>
+<rect x="623" y="270" width="528" height="280" rx="16" fill="#152e31" stroke="#6eb9a2" stroke-width="2"/>
+<rect x="48" y="270" width="528" height="54" rx="16" fill="#234c6c"/>
+<rect x="623" y="270" width="528" height="54" rx="16" fill="#215847"/>
+<text x="72" y="306" fill="#ffffff" font-size="27" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">NRF24L01+ · 2.4 ГГц</text>
+<text x="647" y="306" fill="#ffffff" font-size="27" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">CC1101 · Sub-GHz</text>
+<text x="76" y="371" fill="#c1def4" font-size="23" font-family="Arial,DejaVu Sans,sans-serif">CS / CSN</text>
+<text x="470" y="371" text-anchor="end" fill="#ffffff" font-weight="bold" font-size="25" font-family="Arial,DejaVu Sans,sans-serif">GPIO 9</text>
+<text x="76" y="430" fill="#c1def4" font-size="23" font-family="Arial,DejaVu Sans,sans-serif">CE</text>
+<text x="470" y="430" text-anchor="end" fill="#ffffff" font-weight="bold" font-size="25" font-family="Arial,DejaVu Sans,sans-serif">GPIO 8</text>
+<text x="76" y="489" fill="#c1def4" font-size="23" font-family="Arial,DejaVu Sans,sans-serif">IRQ</text>
+<text x="470" y="489" text-anchor="end" fill="#b0c2d4" font-size="25" font-family="Arial,DejaVu Sans,sans-serif">не подключён</text>
+<text x="650" y="371" fill="#cef8e9" font-size="23" font-family="Arial,DejaVu Sans,sans-serif">CS / CSN</text>
+<text x="1050" y="371" text-anchor="end" fill="#ffffff" font-weight="bold" font-size="25" font-family="Arial,DejaVu Sans,sans-serif">GPIO 15</text>
+<text x="650" y="430" fill="#cef8e9" font-size="23" font-family="Arial,DejaVu Sans,sans-serif">GDO0</text>
+<text x="1050" y="430" text-anchor="end" fill="#ffffff" font-weight="bold" font-size="25" font-family="Arial,DejaVu Sans,sans-serif">GPIO 13</text>
+<text x="650" y="489" fill="#cef8e9" font-size="23" font-family="Arial,DejaVu Sans,sans-serif">GDO2</text>
+<text x="1050" y="489" text-anchor="end" fill="#b0c2d4" font-size="25" font-family="Arial,DejaVu Sans,sans-serif">не подключён</text>
+<rect x="48" y="576" width="1103" height="116" rx="16" fill="#422e23" stroke="#e3a252" stroke-width="2"/>
+<text x="76" y="615" fill="#ffd498" font-size="23" font-weight="bold" font-family="Arial,DejaVu Sans,sans-serif">ВАЖНО: GPIO 8/9 разделяются с клавиатурой TCA8418</text>
+<text x="76" y="655" fill="#f4e8dd" font-size="20" font-family="Arial,DejaVu Sans,sans-serif">SLIM12 переключает I²C ↔ управление NRF24 с блокировкой доступа.</text>
+</svg>
